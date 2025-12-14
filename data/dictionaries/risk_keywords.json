@@ -1,0 +1,82 @@
+{
+  "auto_renewal": [
+    "automatically renew",
+    "auto renewal",
+    "auto-renewal",
+    "automatically extended",
+    "automatic extension",
+    "renew automatically"
+  ],
+  "termination_restrictions": [
+    "may not terminate",
+    "cannot terminate",
+    "termination fee",
+    "early termination",
+    "terminate with cause only",
+    "notice period"
+  ],
+  "unilateral_changes": [
+    "sole discretion",
+    "reserve the right to change",
+    "modify without notice",
+    "unilaterally amend",
+    "modify at any time",
+    "change terms"
+  ],
+  "liability_limitations": [
+    "no liability",
+    "not be liable",
+    "limit liability",
+    "maximum liability",
+    "under no circumstances",
+    "in no event"
+  ],
+  "indemnification": [
+    "indemnify",
+    "hold harmless",
+    "defend against",
+    "indemnification",
+    "indemnity",
+    "at own expense"
+  ],
+  "jurisdiction": [
+    "jurisdiction of",
+    "courts of",
+    "laws of",
+    "governing law",
+    "venue shall be",
+    "dispute resolution"
+  ],
+  "confidentiality": [
+    "confidential information",
+    "non-disclosure",
+    "confidentiality",
+    "proprietary information",
+    "trade secret",
+    "not disclose"
+  ],
+  "payment_terms": [
+    "payment within",
+    "late fee",
+    "interest rate",
+    "payment term",
+    "days after receipt",
+    "default interest"
+  ],
+  "ip_rights": [
+    "intellectual property",
+    "copyright",
+    "patent",
+    "trademark",
+    "ownership rights",
+    "proprietary rights"
+  ],
+  "vague_terms": [
+    "reasonable efforts",
+    "best efforts",
+    "material breach",
+    "as necessary",
+    "as appropriate",
+    "substantial compliance"
+  ]
+}

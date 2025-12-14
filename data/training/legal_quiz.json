@@ -1,0 +1,167 @@
+[
+  {
+    "question": "Under Indian Contract Act, what is the minimum age for entering into a valid contract?",
+    "options": [
+      "16 years", 
+      "18 years", 
+      "21 years", 
+      "No minimum age"
+    ],
+    "correct_answer": 1,
+    "explanation": "According to the Indian Contract Act, a person must be at least 18 years old to enter into a valid contract. Contracts made by minors (under 18) are typically void."
+  },
+  {
+    "question": "Which of the following is NOT an essential element of a valid contract?",
+    "options": [
+      "Offer and acceptance", 
+      "Free consent", 
+      "Written documentation", 
+      "Lawful consideration"
+    ],
+    "correct_answer": 2,
+    "explanation": "Written documentation is NOT an essential element of a valid contract in India. Verbal contracts can be valid as long as they contain other essential elements like offer, acceptance, free consent, lawful consideration, and lawful object."
+  },
+  {
+    "question": "Under the Right to Information Act, within how many days must a public authority provide information?",
+    "options": [
+      "10 days", 
+      "30 days", 
+      "45 days", 
+      "60 days"
+    ],
+    "correct_answer": 1,
+    "explanation": "Under the Right to Information Act, 2005, a public authority is required to provide information within 30 days of receiving the request. In cases involving life or liberty, information must be provided within 48 hours."
+  },
+  {
+    "question": "What is the limitation period for filing a suit for recovery of movable property under the Limitation Act?",
+    "options": [
+      "1 year", 
+      "3 years", 
+      "7 years", 
+      "12 years"
+    ],
+    "correct_answer": 1,
+    "explanation": "Under the Limitation Act, 1963, the limitation period for filing a suit for recovery of movable property is 3 years from the date when the right to sue accrues."
+  },
+  {
+    "question": "Which of the following is a valid ground for divorce under the Hindu Marriage Act?",
+    "options": [
+      "Different political opinions", 
+      "Conversion to another religion", 
+      "Financial disagreements", 
+      "Different food preferences"
+    ],
+    "correct_answer": 1,
+    "explanation": "Conversion to another religion is a valid ground for divorce under the Hindu Marriage Act, 1955. Other grounds include adultery, cruelty, desertion, mental disorder, communicable disease, renunciation, and presumption of death."
+  },
+  {
+    "question": "What is 'caveat emptor' in contract law?",
+    "options": [
+      "Seller beware", 
+      "Buyer beware", 
+      "Equal treatment", 
+      "Mutual benefit"
+    ],
+    "correct_answer": 1,
+    "explanation": "Caveat emptor is a Latin term that means 'buyer beware'. It is a principle in contract law that places the burden on the buyer to reasonably examine and test a product before purchase, as the buyer cannot recover damages from the seller for defects that could have been discovered upon reasonable inspection."
+  },
+  {
+    "question": "In Indian Evidence Act, what is 'res gestae'?",
+    "options": [
+      "Written evidence", 
+      "Expert testimony", 
+      "Statements made during an event", 
+      "Court proceedings"
+    ],
+    "correct_answer": 2,
+    "explanation": "Res gestae refers to statements made spontaneously during an event or immediately after it. Under Section 6 of the Indian Evidence Act, such statements are admissible as evidence because they are considered reliable due to their spontaneous nature, leaving little time for fabrication."
+  },
+  {
+    "question": "What is the maximum period of preventive detention under Indian law without advisory board approval?",
+    "options": [
+      "24 hours", 
+      "3 months", 
+      "6 months", 
+      "1 year"
+    ],
+    "correct_answer": 1,
+    "explanation": "Under Article 22(4) of the Indian Constitution, preventive detention cannot exceed three months unless an Advisory Board has reported that there is sufficient cause for such detention. After three months, the matter must be referred to the Advisory Board."
+  },
+  {
+    "question": "Under the Consumer Protection Act, 2019, what is the time limit for filing a complaint in a District Commission?",
+    "options": [
+      "6 months from the date of cause of action", 
+      "1 year from the date of cause of action", 
+      "2 years from the date of cause of action", 
+      "3 years from the date of cause of action"
+    ],
+    "correct_answer": 2,
+    "explanation": "Under the Consumer Protection Act, 2019, a complaint can be filed within 2 years from the date on which the cause of action has arisen. However, the District Commission may entertain a complaint filed after this period if it is satisfied that there was sufficient cause for the delay."
+  },
+  {
+    "question": "Which of the following is NOT a Fundamental Right guaranteed by the Indian Constitution?",
+    "options": [
+      "Right to Equality", 
+      "Right to Property", 
+      "Right to Freedom of Religion", 
+      "Right to Constitutional Remedies"
+    ],
+    "correct_answer": 1,
+    "explanation": "Right to Property was originally a Fundamental Right under Article 31 of the Indian Constitution. However, it was removed as a Fundamental Right by the 44th Amendment in 1978. It is now a legal right under Article 300A but not a Fundamental Right."
+  },
+  {
+    "question": "What is the doctrine of 'stare decisis' in law?",
+    "options": [
+      "Principle of natural justice", 
+      "Binding nature of precedents", 
+      "Right to remain silent", 
+      "Burden of proof"
+    ],
+    "correct_answer": 1,
+    "explanation": "Stare decisis is a legal doctrine that obligates courts to follow historical cases (precedents) when making a ruling on a similar case. It ensures consistency in judicial decisions and provides predictability to the law."
+  },
+  {
+    "question": "Which Section of IPC deals with sedition?",
+    "options": [
+      "Section 120A", 
+      "Section 124A", 
+      "Section 144", 
+      "Section 302"
+    ],
+    "correct_answer": 1,
+    "explanation": "Section 124A of the Indian Penal Code deals with sedition. It defines sedition as any words, either spoken or written, or signs, or visible representation that brings or attempts to bring hatred, contempt, or excites disaffection towards the government established by law in India."
+  },
+  {
+    "question": "What is the pecuniary jurisdiction of a District Consumer Disputes Redressal Commission under the Consumer Protection Act, 2019?",
+    "options": [
+      "Up to ₹20 lakhs", 
+      "Up to ₹1 crore", 
+      "Up to ₹10 crores", 
+      "No limit"
+    ],
+    "correct_answer": 1,
+    "explanation": "Under the Consumer Protection Act, 2019, the District Consumer Disputes Redressal Commission (District Commission) has jurisdiction to entertain complaints where the value of goods or services paid as consideration does not exceed ₹1 crore."
+  },
+  {
+    "question": "What is 'mens rea' in criminal law?",
+    "options": [
+      "The act itself", 
+      "Guilty mind or intent", 
+      "The punishment", 
+      "Legal defense"
+    ],
+    "correct_answer": 1,
+    "explanation": "Mens rea is a Latin term meaning 'guilty mind'. It refers to the mental element of a crime - the intention, knowledge, or recklessness with which a person commits an act. Most criminal offenses require both actus reus (the guilty act) and mens rea for criminal liability."
+  },
+  {
+    "question": "What is the time period for registering an FIR under Indian law?",
+    "options": [
+      "Within 24 hours", 
+      "Within 48 hours", 
+      "Within 7 days", 
+      "No time limitation"
+    ],
+    "correct_answer": 3,
+    "explanation": "There is no specific time limitation prescribed in the Criminal Procedure Code (CrPC) for filing an FIR (First Information Report). An FIR can be filed at any time after the commission of a cognizable offense. However, unexplained delay in filing an FIR may affect its credibility during trial."
+  }
+]
