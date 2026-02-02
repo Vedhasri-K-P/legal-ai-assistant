@@ -21,7 +21,7 @@ Built as a **prototype to explore document-grounded AI workflows**.
 ##  System Flow
 
 Document Upload
-↓
+->
 Text Extraction (PDF / DOC)
 ↓
 Preprocessing & Structuring
