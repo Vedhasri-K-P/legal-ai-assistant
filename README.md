@@ -76,7 +76,7 @@ git clone https://github.com/YOUR_USERNAME/legal-ai-assistant.git
 cd legal-ai-assistant
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 ---
 
 ##  Limitations
