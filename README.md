@@ -23,13 +23,13 @@ Built as a **prototype to explore document-grounded AI workflows**.
 Document Upload
 ->
 Text Extraction (PDF / DOC)
-↓
+->
 Preprocessing & Structuring
-↓
+->
 Context Selection
-↓
+->
 LLM Query (Groq API - Llama)
-↓
+->
 User-Facing Explanation
 
 ---
