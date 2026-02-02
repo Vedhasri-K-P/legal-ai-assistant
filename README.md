@@ -1,4 +1,4 @@
-# ⚖️ Legal AI Assistant — Document Intelligence Prototype
+#  Legal AI Assistant — Document Intelligence Prototype
 
 A Python-based **legal document intelligence system** designed to analyze unstructured legal text and assist users through **context-aware querying**, **risk surfacing**, and **simplification of legal language**.
 
@@ -6,7 +6,7 @@ This project focuses on **practical LLM integration with real documents**, not g
 
 ---
 
-## 🧠 What This System Does
+##  What This System Does
 
 - Ingests legal documents (PDF / Word)
 - Extracts and structures raw legal text
@@ -18,7 +18,7 @@ Built as a **prototype to explore document-grounded AI workflows**.
 
 ---
 
-## 🏗️ System Flow
+##  System Flow
 
 Document Upload
 ↓
@@ -34,23 +34,23 @@ User-Facing Explanation
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-- 📄 **Document Analysis**  
+-  **Document Analysis**  
   Parses uploaded legal documents to extract key clauses and highlight potential risk areas.
 
-- 💬 **Context-Aware Legal Q&A**  
+-  **Context-Aware Legal Q&A**  
   Allows users to ask questions based on uploaded documents or predefined legal text, reducing generic LLM responses.
 
-- 📊 **Insights Dashboard**  
+-  **Insights Dashboard**  
   Displays simplified summaries and categorized legal insights for easier understanding.
 
-- 🧠 **Legal Quiz Mode**  
+-  **Legal Quiz Mode**  
   Interactive quiz to reinforce legal concepts and test understanding.
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - **Language:** Python  
 - **Frontend / Prototyping:** Streamlit  
@@ -60,7 +60,7 @@ User-Facing Explanation
 
 ---
 
-## 📌 Design Choices & Tradeoffs
+##  Design Choices & Tradeoffs
 
 - Focused on **fast prototyping and usability** over heavy abstractions
 - Prioritized document grounding to reduce hallucinated responses
@@ -69,7 +69,7 @@ User-Facing Explanation
 
 ---
 
-## ▶️ Running the Project
+##  Running the Project
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/legal-ai-assistant.git
@@ -77,20 +77,19 @@ cd legal-ai-assistant
 pip install -r requirements.txt
 streamlit run app.py
 
-⚠️ Limitations
+---
 
-This is a prototype and not a substitute for professional legal advice
+##  Limitations
 
-Responses depend on document quality and extracted context
+- This is a prototype and not a substitute for professional legal advice.
+- Responses depend on document quality and extracted context.
+- Retrieval logic can be further improved with vector-based indexing.
 
-Retrieval logic can be further improved with vector-based indexing
+---
 
-🔮 Future Improvements
+##  Future Improvements
 
-Integrate vector-based retrieval for large document sets
-
-Add citation-based responses
-
-Improve clause risk scoring
-
-Introduce multi-step reasoning workflows
+- Integrate vector-based retrieval for large document sets.
+- Add citation-based responses to improve trust and traceability.
+- Improve clause risk scoring and prioritization.
+- Introduce multi-step reasoning workflows for complex queries.
