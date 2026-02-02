@@ -1,40 +1,96 @@
-# ⚖️ Legal AI Assistant
+# ⚖️ Legal AI Assistant — Document Intelligence Prototype
 
-An AI-powered legal document analysis and assistance tool built with Python and Streamlit. This application helps users simplify legal jargon, analyze contracts for risks and answer legal queries using the Groq API (Llama-3).
+A Python-based **legal document intelligence system** designed to analyze unstructured legal text and assist users through **context-aware querying**, **risk surfacing**, and **simplification of legal language**.
 
-# 🚀 Features
-* 📄 Document Analysis:Upload PDF/Word documents to extract key clauses and detect potential risks.
-* 💬 AI Legal Chatbot:Ask questions about Indian laws (IPC, CrPC, Contract Act) and get instant answers.
-* 📊 Insights Dashboard:Visual breakdown of document risks and categories.
-* 🧠 Quiz Mode:Test your legal knowledge with an interactive quiz.
+This project focuses on **practical LLM integration with real documents**, not generic chatbot behavior.
 
-## 🛠️ Tech Stack
-* Frontend:Streamlit
-* AI Model:Llama(via Groq API)
-* Data Processing:Pandas, PyPDF2
-* Language:Python
+---
 
-## ⚙️ Installation & Setup
+## 🧠 What This System Does
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/legal-ai-assistant.git](https://github.com/YOUR_USERNAME/legal-ai-assistant.git)
-    cd legal-ai-assistant
-    ```
+- Ingests legal documents (PDF / Word)
+- Extracts and structures raw legal text
+- Identifies important clauses and potential risk areas
+- Enables users to ask questions grounded in uploaded documents
+- Assists with legal understanding using controlled LLM responses
 
-2.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
+Built as a **prototype to explore document-grounded AI workflows**.
 
-3.  **Set up Environment Variables:**
-    * Create a `.env` file in the root directory.
-    * Add your Groq API key:
-        ```
-        GROQ_API_KEY=gsk_your_api_key_here
-        ```
+---
 
-4.  **Run the App:**
-    ```bash
-    streamlit run app.py
-    ```
+## 🏗️ System Flow
+
+Document Upload
+↓
+Text Extraction (PDF / DOC)
+↓
+Preprocessing & Structuring
+↓
+Context Selection
+↓
+LLM Query (Groq API - Llama)
+↓
+User-Facing Explanation
+
+---
+
+## 🚀 Key Features
+
+- 📄 **Document Analysis**  
+  Parses uploaded legal documents to extract key clauses and highlight potential risk areas.
+
+- 💬 **Context-Aware Legal Q&A**  
+  Allows users to ask questions based on uploaded documents or predefined legal text, reducing generic LLM responses.
+
+- 📊 **Insights Dashboard**  
+  Displays simplified summaries and categorized legal insights for easier understanding.
+
+- 🧠 **Legal Quiz Mode**  
+  Interactive quiz to reinforce legal concepts and test understanding.
+
+---
+
+## 🔧 Tech Stack
+
+- **Language:** Python  
+- **Frontend / Prototyping:** Streamlit  
+- **LLM API:** Groq (Llama-based models)  
+- **Document Processing:** PyPDF2  
+- **Data Handling:** Pandas  
+
+---
+
+## 📌 Design Choices & Tradeoffs
+
+- Focused on **fast prototyping and usability** over heavy abstractions
+- Prioritized document grounding to reduce hallucinated responses
+- Used Streamlit to quickly validate workflows and user interactions
+- Kept the architecture simple to allow future expansion into RAG or agent-based systems
+
+---
+
+## ▶️ Running the Project
+
+```bash
+git clone https://github.com/YOUR_USERNAME/legal-ai-assistant.git
+cd legal-ai-assistant
+pip install -r requirements.txt
+streamlit run app.py
+
+⚠️ Limitations
+
+This is a prototype and not a substitute for professional legal advice
+
+Responses depend on document quality and extracted context
+
+Retrieval logic can be further improved with vector-based indexing
+
+🔮 Future Improvements
+
+Integrate vector-based retrieval for large document sets
+
+Add citation-based responses
+
+Improve clause risk scoring
+
+Introduce multi-step reasoning workflows
